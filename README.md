@@ -59,7 +59,7 @@
 ---
 
 ## ⌨️ Typing Animation
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&lines=Backend+Developer;Python+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&lines=Backend+Developer;)](https://git.io/typing-svg)
 
 ---
 
