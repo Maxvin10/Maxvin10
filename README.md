@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## Hi, I'm Asadbek 👋  
+## Hi, I'm Asadbek Ahmedov 👋  
 
 ## **Backend Developer 💻 | HTML | Python: Aiogram, ORM, Tortoise, FastAPI, DRF | Database: Postgresql with ORM, SQL| C++: STL, Algorithmic problems**
 
