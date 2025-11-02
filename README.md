@@ -27,7 +27,6 @@
 - 🌱 Learning **Python & C++**
 - 🔭 Working as a **Backend Developer**
 - 💼 Experience: **2+ year** 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 
 ---
