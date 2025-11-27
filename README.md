@@ -4,7 +4,7 @@
   
 ## Hi, I'm Asadbek Ahmedov 👋  
 
-## **Backend Developer 💻 | HTML | JavaScript | Python: Aiogram, ORM, Tortoise, FastAPI, DRF | Database: Postgresql with ORM, SQL| C++: STL, problem solving**
+## **Backend Developer 💻 | HTML | CSS | JavaScript | Python: Aiogram, ORM, Tortoise, FastAPI, DRF | Database: Postgresql with ORM, SQL| C++: STL, problem solving**
 
 
 </div>
